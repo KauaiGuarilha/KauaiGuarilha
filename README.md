@@ -4,4 +4,4 @@ Degree in Systems Analysis and Development - Currently as Back-end Developer at 
 
 ![Kauai Guarilha github stats](https://github-readme-stats.vercel.app/api?username=KauaiGuarilha&theme=dark&show_icons=true)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Kauai Guarilha stats](https://github-readme-stats.vercel.app/api/wakatime?username=KauaiGuarilha&layout=compact)](https://github.com/KauaiGuarilha)
