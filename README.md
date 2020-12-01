@@ -3,5 +3,3 @@ Degree in Systems Analysis and Development - Currently as Back-end Developer at 
 [![Linkedin Badge](https://img.shields.io/badge/-Kauai%20Guarilha-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/kauai-guarilha/)](https://www.linkedin.com/in/kauai-guarilha/) 
 
 ![Kauai Guarilha github stats](https://github-readme-stats.vercel.app/api?username=KauaiGuarilha&theme=dark&show_icons=true)
-
-[![Kauai Guarilha stats](https://github-readme-stats.vercel.app/api/wakatime?username=KauaiGuarilha&layout=compact)](https://github.com/KauaiGuarilha/KauaiGuarilha)
