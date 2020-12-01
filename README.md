@@ -4,3 +4,5 @@ Degree in Systems Analysis and Development - Currently as Back-end Developer at 
 
 ![Kauai Guarilha github stats](https://github-readme-stats.vercel.app/api?username=KauaiGuarilha&theme=dark&show_icons=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KauaiGuarilha&layout=compact)](https://github.com/KauaiGuarilha/github-readme-stats)
 
+![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=anuraghazra&repo=github-readme-stats&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
+
