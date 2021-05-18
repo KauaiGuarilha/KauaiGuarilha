@@ -1,4 +1,4 @@
-Degree in Systems Analysis and Development | Postgraduate at Software Engineering (MBA) - Currently as Back-end Developer at Alterdata Software. Knowledge and experience in Java, unit tests, with priority on customer satisfaction and error reduction.
+**Degree in Systems Analysis and Development** | **Postgraduate at Software Engineering (MBA)** - Currently as **Back-end Developer** at Alterdata Software. Knowledge and experience in Java, unit tests, with priority on customer satisfaction and error reduction.
 
 [![Linkedin Badge](https://img.shields.io/badge/-Kauai%20Guarilha-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/kauai-guarilha/)](https://www.linkedin.com/in/kauai-guarilha/) 
 
