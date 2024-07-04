@@ -1,4 +1,4 @@
-**Degree in Systems Analysis and Development** | **Postgraduate at Software Engineering (MBA)** - Currently as **Back-end Developer** at Conta Azul Software. Knowledge and experience in Java, unit tests, with priority on customer satisfaction and error reduction.
+**Degree in Technology in Systems Analysis and Development** | **Master's degree in Software Engineering (MBA)** - Currently as **Software Engineer** at Conta Azul Software. Knowledge and experience with microservices in Java, unit testing, BDD and Agile Scrum methodology.
 
 [![Linkedin Badge](https://img.shields.io/badge/-Kauai%20Guarilha-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/kauai-guarilha/)](https://www.linkedin.com/in/kauai-guarilha/) 
 
